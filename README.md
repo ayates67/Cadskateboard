@@ -1,7 +1,7 @@
 # Cad skateboard
 
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
+
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels_and_Bearings](#Wheels_and_Bearings)
