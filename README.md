@@ -20,7 +20,7 @@ The deck was the simplest part. I created a rectangle and 2 circles on it. I cre
 ### Trucks
 The trucks were a difficult component of the skateboard. For this I had to be precise and draw all of the right lines in the right places. I drew some rectangles, extruded them, and created fillets. For the axle, I created a rod that was concentric to a hollowed out rod. This holds the wheels. Lastly, I combined the components of the truck.
 
-<img src="trucks.PNG">
+<img src="trucker.PNG">
 
 ### Wheels and Bearings
 The wheels and bearings were realativly easy. I drew to rectangles, then created a revolute extrusionion. This created the wheel. Next I made a few indents in the wheel and that was done. THen I had to do the bearing which was just an extruded circle with a hole and a fillet on one side.
@@ -34,3 +34,6 @@ The assembly was a hard process for me. It took me a lot of time. I had to mate 
 
 ### Bending the board
 Bending the board was very straight forward. I had to use a line that started the circular part of the board. I bent that at a 15 degree angle. I added a 6in fillet to the top to round it out. I did this to the other side and was done in 10 minutes.
+
+<img src="bend.PNG">
+
