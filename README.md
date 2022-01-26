@@ -28,7 +28,7 @@ The wheels and bearings were realativly easy. I drew to rectangles, then created
 <img src="wheel and bearings.PNG">
 
 ### Assembly
-The assembly was a hard process for me. It took me a lot of time. I had to mate using fasten mates. First I mated the deck to the trucks. Then I added the wheels to the axle using revolute mates. Lastly I had to add screws into the holes. This process was hard at first, then once Mr. H helped me, it became much easier and I did it within seconds.
+The assembly was a hard process for me. It took me a lot of time. I had to mate using fasten mates. First I mated the deck to the trucks. Then I added the wheels to the axle using revolute mates. Lastly I had to add screws into the holes. This process was hard at first, but I kept trying and figuired it out even thogh the srcews were being annoying.
 
 <img src="assem.PNG">
 
